@@ -9,6 +9,7 @@ Lending Club is a US peer-to-peer lending company, headquartered in San Francisc
 2. Lending Club Data (.csv)
    * Loan Data - These files contain complete loan data for all loans issued through the time period stated, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information. The file containing loan data through the "present" contains complete loan data for all loans issued through the previous completed calendar quarter.
    * Declined Loan Data - These files contain the list and details of all loan applications that did not meet Lending Club's credit underwriting policy.
+   * Data Dictionary - The Data Dictionary includes definitions for all the data attributes included in the Historical data file and the In Funding data file.
    
 ## Libraries
 1. Data Analysis
