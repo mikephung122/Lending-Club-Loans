@@ -16,7 +16,7 @@ Lending Club is a US peer-to-peer lending company, headquartered in San Francisc
    * pandas - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 2. Data Visualization
    * seaborn - A Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-   * plotly - An interactive, open-source, and browser-based graphing library for Python.
+   * plotly - An interactive, open-source, and browser-based graphing library for Python.  Visualizations can be viewed using the Jupyter Notebook HTML file or https://nbviewer.jupyter.org/.
    
 ## References
 1. Lending Club Statistics (https://www.lendingclub.com/info/statistics.action)
